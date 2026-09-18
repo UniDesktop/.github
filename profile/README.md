@@ -1,7 +1,7 @@
 # 🌐 United Desktop Association
 
 > **Unifying the Fragmented Desktop Ecosystem.**  
-> 致力于消除操作系统桌面环境的碎片化，为全平台桌面应用开发者提供坚如磐石的系统级外壳控制标准。
+> 致力于推动操作系统的桌面环境统一且规范，并为各类桌面应用提供全方面扶持与帮助。
 
 ### 🎯 为什么我们需要 United Desktop API (UDA)？
 在现代操作系统中，跨平台应用（Electron, Tauri, Flutter, Qt）面临着严重的底层割裂：
