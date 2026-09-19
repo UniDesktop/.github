@@ -14,7 +14,7 @@
 ---
 
 ### 📦 核心项目
-- **[UDA Core / libunidesktop](https://github.com/UniDesktop/UDA)**: 跨 Windows 10/11 与现代 Linux（GNOME/KDE/Wayland）的通用外壳控制 SDK (Rust)。
+- **[UDA Core / libunidesktop](https://github.com/UniDesktop/SDK)**: 跨 Windows 10/11 与现代 Linux（GNOME/KDE/Wayland）的通用外壳控制 SDK (Rust)。
 
 ---
 
