@@ -1,4 +1,4 @@
-# 🌐 United Desktop Association
+# <img width="64" height="43" alt="UniDesktop_Icon3D-removebg-3-2" src="https://github.com/user-attachments/assets/4f65797f-2367-41c9-9ed3-0ad1d8221ad6" /> United Desktop Association
 
 > **Unifying the Fragmented Desktop Ecosystem.**  
 > 致力于推动操作系统的桌面环境统一且规范，并为各类桌面应用提供全方面扶持与帮助。
