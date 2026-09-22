@@ -3,7 +3,7 @@
 > **Unifying the Fragmented Desktop Ecosystem.**  
 > 致力于推动操作系统的桌面环境统一且规范，并为各类桌面应用提供全方面扶持与帮助。
 
-### 🎯 为什么我们需要 United Desktop API (UDA)？
+### 🎯 为什么我们需要 UniDesktop API (UDA)？
 在现代操作系统中，跨平台应用（Electron, Tauri, Flutter, Qt）面临着严重的底层割裂：
 - 在 Windows 上改个壁纸只需 1 行 API；
 - 在 Linux 上为了适配 GNOME、KDE、Hyprland、Sway，你需要写十几套 D-Bus 和 CLI 脚本；
@@ -19,6 +19,6 @@
 ---
 
 ### 💬 参与建设
-- 官网：[unidesktop.sr-studio.cn](https://unidesktop.sr-studio.cn)
+- 官网：[unidesktop.sr-studio.cn](https://unidesktop.sr-studio.cn) （建设中）
 - 联系我们：`UniDesktop@sr-studio.cn`
 - 赞助支持：[爱发电主页](https://afdian.com/a/srinternet)
