@@ -1,4 +1,4 @@
-<img width="1923" height="818" alt="UniDesktop-banner" src="https://github.com/user-attachments/assets/ffc5c041-f35b-4318-b5af-4ad7989e247f" />
+<img width="1923" height="818" alt="UniDesktop-banner" src="https://github.com/user-attachments/assets/88a0e8f5-9e7e-442c-9b39-6bfd574c0463" />
 
 # <img width="64" height="43" alt="UniDesktop_Icon3D-removebg-3-2" src="https://github.com/user-attachments/assets/4f65797f-2367-41c9-9ed3-0ad1d8221ad6" /> Universal Desktop Community
 
