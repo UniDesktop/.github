@@ -1,8 +1,8 @@
 <img width="1923" height="818" alt="UniDesktop-banner" src="https://github.com/user-attachments/assets/ffc5c041-f35b-4318-b5af-4ad7989e247f" />
 
-# <img width="64" height="43" alt="UniDesktop_Icon3D-removebg-3-2" src="https://github.com/user-attachments/assets/4f65797f-2367-41c9-9ed3-0ad1d8221ad6" /> United Desktop Association
+# <img width="64" height="43" alt="UniDesktop_Icon3D-removebg-3-2" src="https://github.com/user-attachments/assets/4f65797f-2367-41c9-9ed3-0ad1d8221ad6" /> United Desktop Community
 
-> **Unifying the Fragmented Desktop Ecosystem.**  
+> **We are NOT standard-makers; we are the plumbers.**  
 > 致力于推动操作系统的桌面环境统一且规范，并为各类桌面应用提供全方面扶持与帮助。
 
 ### 🎯 为什么我们需要 UniDesktop API (UDA)？
@@ -11,7 +11,7 @@
 - 在 Linux 上为了适配 GNOME、KDE、Hyprland、Sway，你需要写十几套 D-Bus 和 CLI 脚本；
 - Wayland 的安全隔离让传统的全局快捷键和自动化工具近乎瘫痪……
 
-**UDA 为此而生。** 我们不重新发明桌面，我们负责“吞掉”所有的碎片化差异，向上暴露优雅、统一、类型安全的现代 SDK。
+**UDA 为此而生。** 我们不重新发明桌面，也不重新制定规范。我们负责“吞掉”所有的碎片化差异，向上暴露优雅、统一、类型安全的现代 SDK。
 
 ---
 
