@@ -15,12 +15,26 @@
 
 ---
 
-### 📦 核心项目
-- **[UDA Core / libunidesktop](https://github.com/UniDesktop/SDK)**: 跨 Windows 10/11 与现代 Linux（GNOME/KDE/Wayland）的通用外壳控制 SDK (Rust)。
+### 📦 核心项目与生态
+- **[UDA Core / libunidesktop](https://github.com/UniDesktop/SDK)**:
+  基于纯 Rust 构建的跨平台桌面外壳集成 SDK（支持 Windows 10/11 与主流 Linux 桌面环境），内置标准 C-ABI FFI 导出。
+
+---
+
+### 📜 社区治理与孵化声明
+
+Universal Desktop Community (UniDesktop / UDC) 坚持**开放、透明、以代码贡献为导向**的开源原则。
+
+我们即将推出 UniDesktop Contribution Protocol ，让更多跨平台的桌面应用开发者、爱好者能够有机会、有条不紊地参与到社区贡献。
+
+> **Universal Desktop Community is initiated and incubated by [SR Studio](https://github.com/SRInternet-Studio/), driven by the global open-source community.**  
+> 通用桌面环境社区由 [SR Studio](https://github.com/SRInternet-Studio/) 初始发起与孵化，由全球开源极客共同维护。
 
 ---
 
 ### 💬 参与建设
-- 官网：[unidesktop.sr-studio.cn](https://unidesktop.sr-studio.cn) （建设中）
-- 联系我们：`UniDesktop@sr-studio.cn`
-- 赞助支持：[爱发电主页](https://afdian.com/a/srinternet)
+
+- 🌐 **官方主页**：[unidesktop.sr-studio.cn](https://unidesktop.sr-studio.cn) *(建设中)*
+- 📮 **联系我们**：`UniDesktop@sr-studio.cn`
+- 💖 **赞助支持**：[爱发电主页](https://afdian.com/a/srinternet) *(用于 CI 服务器与开发硬件采购)*
+- 💡 **讨论与提议**：欢迎在各个仓库提交 Issue 或参与 Discussions！
