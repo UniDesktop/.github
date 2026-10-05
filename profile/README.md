@@ -1,6 +1,6 @@
-<img width="1923" height="818" alt="UniDesktop-banner" src="https://github.com/user-attachments/assets/88a0e8f5-9e7e-442c-9b39-6bfd574c0463" />
+<a href="https://unidesktop.sr-studio.cn/"><img width="1923" height="818" alt="UniDesktop-banner" src="https://github.com/user-attachments/assets/88a0e8f5-9e7e-442c-9b39-6bfd574c0463" />
 
-# <img width="64" height="43" alt="UniDesktop_Icon3D-removebg-3-2" src="https://github.com/user-attachments/assets/4f65797f-2367-41c9-9ed3-0ad1d8221ad6" /> Universal Desktop Community
+# <img width="64" height="43" alt="UniDesktop_Icon3D-removebg-3-2" src="https://github.com/user-attachments/assets/4f65797f-2367-41c9-9ed3-0ad1d8221ad6"/> Universal Desktop Community
 
 > **We are NOT standard-makers; we are the plumbers.**  
 > 致力于推动操作系统的桌面环境统一且规范，并为各类桌面应用提供全方面扶持与帮助。
@@ -34,7 +34,7 @@ Universal Desktop Community (UniDesktop / UDC) 坚持**开放、透明、以代�
 
 ### 💬 参与建设
 
-- 🌐 **官方主页**：[unidesktop.sr-studio.cn](https://unidesktop.sr-studio.cn) *(建设中)*
+- 🌐 **官方主页**：[unidesktop.sr-studio.cn](https://unidesktop.sr-studio.cn)
 - 📮 **联系我们**：`UniDesktop@sr-studio.cn`
 - 💖 **赞助支持**：[爱发电主页](https://afdian.com/a/srinternet) *(用于 CI 服务器与开发硬件采购)*
 - 💡 **讨论与提议**：欢迎在各个仓库提交 Issue 或参与 Discussions！
